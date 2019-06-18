@@ -6,6 +6,9 @@ public class A {
 public void abc()
 {
 System.out.println("Hello");
+Reporter.log("bharani");
+Reporter.log("bharani");
+Reporter.log("bharani");
 
 	}
 
